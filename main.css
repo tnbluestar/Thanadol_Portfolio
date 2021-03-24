@@ -1,0 +1,149 @@
+body
+{
+    margin: 0px;
+}
+div
+{
+    display: block;
+}
+p
+{
+    font-size: 20px;
+    text-align: center;
+}
+.nav-header
+{
+    position: fixed;
+    width: 100%;
+}
+.nav-item:hover
+{
+    border: 3px solid white;
+    border-radius: 30%;
+    transition: 0.4s;
+}
+.container-header
+{
+    text-align: center;
+    background-color: navajowhite;
+    padding-bottom: 50px;
+    padding-top: 55px;
+}
+.header-text
+{
+    margin-top: 20px;
+}
+.flex-container
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.flex-container >div
+{
+    margin-top: 50px;
+}
+.topic-header
+{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.Logo
+{
+    text-align: center;
+}
+.Logo:hover
+{
+    transform: translateY(-20px);
+    transition: 0.5s;
+}
+.Grid-Logo
+{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.work-link
+{
+    font-size: larger;
+}
+.grid-container
+{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.grid-skill
+{
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+    
+}
+.end-underline
+{
+    height: 1px;
+    width: 85%;
+    background-color: black;
+    
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 30px;
+}
+.Contact
+{
+    text-align: center;
+}
+#myPic
+{
+    width: 20%;
+    height: 300px;
+    margin-top: 10px;
+    border-radius: 100%;
+}
+#logo
+{
+    width: 30%;
+    margin-bottom: 10px;
+}
+#grid-logo
+{
+    width: 30%;
+    margin-bottom: 15px;
+}
+#sticker
+{
+    width: 65.5%;
+    margin-bottom: 15px;
+}
+#skills
+{
+    padding-bottom: 50px;
+}
+#project
+{
+    background-color: navajowhite;
+    padding-bottom: 50px;
+}
+#left
+{
+    margin-left: 50%;
+}
+#right
+{
+    font-size: 2em;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 30px;
+}
+#fb
+{
+    width: 2%;
+    margin-right: 20px;
+}
+#ig
+{
+    width: 2%;
+    margin-left: 20px;
+}
+
+

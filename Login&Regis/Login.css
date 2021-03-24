@@ -1,0 +1,43 @@
+html
+{
+    background-color: rgba(39, 39, 39, 0.945);
+}
+#Header
+{
+    text-align: center;
+    font-size: 50px; 
+    color: white;
+    background-color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#LoginAll
+{
+    margin-top: 100px;
+    margin-bottom: 150px;
+    margin-left: 620px;
+    margin-right: 620px;
+    
+    padding-bottom: 60px;
+    padding-right: 5px;
+    padding-top: 20px;
+    background-color: rgba(39, 39, 39, 0.568);
+    
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#userpass
+{
+    text-align: center;
+    font-size: 20px;
+}
+.username
+{
+    margin-bottom: 5px;
+}
+
+#Twobotton
+{
+    text-align: center;
+}

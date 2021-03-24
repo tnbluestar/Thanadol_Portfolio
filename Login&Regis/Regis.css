@@ -1,0 +1,62 @@
+html
+{
+    background-color: rgba(39, 39, 39, 0.945);
+}
+
+#Top
+{
+    text-align: center;
+    font-size: 50px; 
+    color: white;
+    background-color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#Regisform
+{
+    margin-top: 100px;
+    margin-left: 490px;
+    margin-right: 490px;
+
+    padding-bottom: 10px;
+    padding-right: 5px;
+    padding-top: 1px;
+    background-color: rgba(39, 39, 39, 0.568);
+
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#inform
+{
+    margin-left: 20px;
+}
+
+
+#Require
+{
+    text-align: left;
+    font-size: 13px;
+
+    margin-right: 3px;
+    margin-top: 7px;
+}
+#Regis
+{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#usepass
+{
+    padding-top: 5px;
+}
+#Repassword
+{
+    margin-bottom: 15px;
+}
+
+#TwoBotton
+{
+    text-align: center;
+    margin-top: 10px;
+}
